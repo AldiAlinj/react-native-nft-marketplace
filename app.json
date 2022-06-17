@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "nft",
+    "slug": "nft",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
