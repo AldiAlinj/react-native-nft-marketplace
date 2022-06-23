@@ -1,4 +1,4 @@
-# My Universal React Project
+# React Native NFT Marketplace UI
 
 <p>
   <!-- iOS -->
